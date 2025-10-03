@@ -51,4 +51,4 @@ This analysis provides a comprehensive view of Netflix's content and can help in
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
 
 - **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/omvedant)
-- **Email**: [Connect with me through email](omvedant01@gmail.com)
+- **Email**: [omvedant01@gmail.com]
